@@ -1,5 +1,5 @@
 # DenizALejandro_BLACKJACK
-
+https://github.com/aledeniiz/DenizALejandro_BLACKJACK
 import random
 
 def generar_mazo():
